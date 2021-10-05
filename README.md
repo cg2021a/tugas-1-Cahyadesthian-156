@@ -17,3 +17,6 @@ Belakang Atas
 
 Depan Atas        
 <img src="foto-benda/flashdisk-depan.jpg" width="800">
+
+#### Tugas 1          
+<img src="dokumentasi-tugas-1.gif" width="400">
