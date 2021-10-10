@@ -29,7 +29,10 @@ Tugas Individu (waktu 1 pekan)
 1. Buat dan tampilkan beberapa geometri dan diberi animasi, beberapa obyek ditampilkan wireframe
 2. Gunakan beberapa jenis material 
 3. gunakan beberapa jenis lighting (AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights)
-.
+.             
+
 Pada pengerjaan tugas ini, beberapa gemoetri yang digunakan adalah kubus/box,sphere,cone,torus, dan octahderon.
 Material yang digunakan adalah MeshBasicMaterial, MeshLambertMaterial, dan MeshPongMaterial. Poperties yang digunakan diantaranya adalah color, wireframe, texture, flatshading, dan shininess dengan material yang bersesuaian
-Light yang digunakan AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights dengan beberapa properties yang digunakan diantaranya adalah posisiton dan Helper bagi beberapa lighting yang bersesuaian. Setiap lighting diterapkan dalam file yang terpisah
+Light yang digunakan AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights dengan beberapa properties yang digunakan diantaranya adalah posisiton dan Helper bagi beberapa lighting yang bersesuaian. Setiap lighting diterapkan dalam file yang terpisah     
+<img src="tugas-materi-dasar-threeJs/dokumentasi/ambient.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/directional-light.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/hemisphere.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/point-light.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/spot-light.gif" width="300">
+
