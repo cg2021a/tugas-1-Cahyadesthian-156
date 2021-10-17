@@ -1,7 +1,7 @@
 # tugas-1-Cahyadesthian-156
 tugas-1-Cahyadesthian-156 created by GitHub Classroom
 
-### Tugas 1
+### 📗 Tugas 1
 1. Cari benda di sekitar Anda yang berawalan huruf A, F, atau K.
 2. Letakkan benda tersebut di atas permukaan datar: meja, lantai, dsb.
 3. Ambil foto benda tersebut dari empat sudut pandang yang berbeda: kanan atas, kiri atas, belakang atas, depan atas (sudut kemiringan bebas).
@@ -11,7 +11,7 @@ tugas-1-Cahyadesthian-156 created by GitHub Classroom
 Deadline: Rabu, 2021/09/22, 07.00 AM                  
 <img src="foto-benda/flashdisk-kanan.jpg" width="200"><img src="foto-benda/flashdisk-kiri.jpg" width="200"><img src="foto-benda/flashdisk-belakang.jpg" width="200"><img src="foto-benda/flashdisk-depan.jpg" width="200">
 
-#### Lanjutan Tugas 1
+#### 📗 Lanjutan Tugas 1
 Membuat sebuah aplikasi Grafika berbasis WebGL pada repo tugas yang telah dibuat di tugas sebelumnya dengan spesifikasi di bawah ini:
 1. Aplikasi tersusun atas file-file HTML, JavaScript, dan CSS (opsional).
 2. Aplikasi terdiri dari satu Canvas saja.
@@ -24,7 +24,7 @@ Membuat sebuah aplikasi Grafika berbasis WebGL pada repo tugas yang telah dibuat
 Deadline: Rabu, 2021/10/06, 07.00 AM
 <img src="dokumentasi-tugas-1.gif" width="400">
 
-### Tugas Materi Dasar-dasar Three.js
+### 📗 Tugas Materi Dasar-dasar Three.js
 Tugas Individu (waktu 1 pekan)
 1. Buat dan tampilkan beberapa geometri dan diberi animasi, beberapa obyek ditampilkan wireframe
 2. Gunakan beberapa jenis material 
@@ -36,3 +36,9 @@ Material yang digunakan adalah MeshBasicMaterial, MeshLambertMaterial, dan MeshP
 Light yang digunakan AmbientLight, HemisphereLight, DirectionalLight, PointLight, Spotlights dengan beberapa properties yang digunakan diantaranya adalah posisiton dan Helper bagi beberapa lighting yang bersesuaian. Setiap lighting diterapkan dalam file yang terpisah     
 <img src="tugas-materi-dasar-threeJs/dokumentasi/ambient.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/directional-light.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/hemisphere.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/point-light.gif" width="300"> <img src="tugas-materi-dasar-threeJs/dokumentasi/spot-light.gif" width="300">
 
+
+### 📗 Tugas Materi User Interaction Three.js
+Buat obyek baru yang muncul diposisi dan warna secara random yang semakin lama semakin cepat, Berhenti tambah obyek baru jika jumlah obyek sudah mencapai batas tertentu. 
+Pilih 2 obyek pasangan yang memiliki warna yang sama, jika 2 obyek pasangan sudah terpilih, hapus obyek2 tersebut dan tambah skor   
+<img src="https://github.com/Cahyadesthian-156/empty/blob/main/prev-tgs2.gif?raw=true" width="1200">       
+Pada tugas ini, objek box bertambah dengan batas sebanyak kurang dari 100 box, terdapat pula penambahan kecepatan sampai dengan maximal 550 (dari awalnya 2250 dan berkurang sebesar 100 ), box menjadi putih dan berotasi saat dipilih. Penambahan skor sebesar 20 untuk setiap pasangan kotak yang dipilih.
